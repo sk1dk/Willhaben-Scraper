@@ -1,4 +1,4 @@
-# **Web Scraper for Image and Data Extraction**  
+# **Web Scraper for Image and Data Extraction on Willhaben.at**  
 
 This script extracts item data and images from a specified URL while removing EXIF metadata from downloaded images.  
 
@@ -19,8 +19,8 @@ pip install requests pillow
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone (https://github.com/sk1dk/Willhaben-Scraper)
+   cd WillHaben-Scraper
    ```
 
 2. **Run the Script**  
